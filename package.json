@@ -1,0 +1,24 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-kishore/header-parser-microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi-kishore/header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/ravi-kishore/header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request-ip": "^1.2.2"
+  }
+}
